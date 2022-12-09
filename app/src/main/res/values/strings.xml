@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecyclerView_MotorcycleBrands</string>
+    <string name="aprilia">Aprilia</string>
+    <string name="bmw">BMW</string>
+    <string name="cagiva">Cagiva</string>
+    <string name="ducati">Ducati</string>
+    <string name="excelsior">Excelsior Henderson</string>
+    <string name="fantic">Fantic Motor</string>
+    <string name="gilera">Gilera</string>
+    <string name="honda">Honda</string>
+    <string name="indian">Indian Motorcycle</string>
+    <string name="jawa">Jawa</string>
+    <string name="kawasaki">Kawasaki</string>
+</resources>
